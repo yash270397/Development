@@ -1,3 +1,3 @@
-This branch has below open-source Generative AI applications with ongoing development :
+Open-source🔀 Gen-AI applications🔄:
 
-1. PDF Chatbot - Local Documents
+1. PDF Chatbot 🖨️- Local Documents🗂️
